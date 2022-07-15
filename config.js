@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Risky - Afk.
+   * Contact Me on wa.me/6283173788896
+   * Follow https://github.com/riseky8876
 */
 
 const fs = require('fs')
@@ -18,12 +18,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6288227248988']
-global.premium = ['6288227248988']
-global.namaowner = ['Asrori Amin']
-global.namabot = [' Amin Bot']
-global.packname = 'Asrori'
-global.author = 'Amin'
+global.owner = ['6283173788896']
+global.premium = ['6283173788896']
+global.namaowner = ['Risky - Afk']
+global.namabot = [' Vanitas - BotZ']
+global.packname = 'Risky'
+global.author = 'Afk'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
